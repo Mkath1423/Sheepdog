@@ -1,0 +1,25 @@
+sheepdog img//dog1.png 200 300
+sheepdog img//dog2.png 300 200
+sheep img/sheep.png 400 400
+sheep img/sheep.png 300 200
+sheep img/sheep.png 200 300
+sheep img/sheep.png 300 300
+sheep img/sheep.png 200 200
+sheep img/sheep.png 300 200
+sheep img/sheep.png 200 300
+sheep img/sheep.png 300 300
+wall 0 0 500 20
+wall 0 480 100 20
+wall 200 480 280 20
+wall 0 20 20 480
+wall 480 20 20 480
+attractor 300 250 10
+decal img/hay_stack.png 275 225 50 50
+attractor 80 100 10
+decal img/hay_stack.png 55 75 50 50
+attractor 100 300 10
+decal img/hay_stack.png 75 275 50 50
+goal 100 480 100 20
+decal img//arrow_down.png 100 380 100 100
+scene 500 500
+timeToComplete 100
